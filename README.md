@@ -1,16 +1,26 @@
-### Hi there 👋
+### About me 
 
+I am a Computer Science graduate passionate about Web and Software development :computer: :sparkles: . Currently searching for a position in London! 
+
+### My experience
+
+#### PWA Website
+A team project at the University of Sheffield for building a website with 
+
+
+2. IoT
+
+3. Blazor Dynamic pricing?
+4. Software Hut
+5. 
+
+### Current project :rocket: 
+
+Game statistics website 
 <!--
-**RokasBagdonas/RokasBagdonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+short description 
 
-Here are some ideas to get you started:
+stack used
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+current progress
+
