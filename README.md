@@ -6,7 +6,7 @@ I am a Computer Science graduate passionate about Web and Software development :
 
 ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/python.png?raw=true) ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/django.png?raw=true) ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/postgresql.png?raw=true) ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/docker.png?raw=true) 
 
-I am building a statistics website for the best strategic board game [Terraforming Mars](https://www.fryxgames.se/games/terraforming-mars/)! Having played *a lot* of games, me and my friends collected bunch of data. Thus I have decided to create this website to analyise our scores and simplify game logging. 
+I am building a statistics website for the best strategic board game [Terraforming Mars](https://www.fryxgames.se/games/terraforming-mars/)! Having played *a lot* of games, me and my friends collected a bunch of data. Thus I have decided to create this website to analyise our scores and simplify game logging. 
 
 ### My experience
 
