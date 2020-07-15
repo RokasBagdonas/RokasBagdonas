@@ -8,22 +8,21 @@ I am a Computer Science graduate passionate about Web and Software development :
 
 I am building a statistics website for the best strategic board game [Terraforming Mars](https://www.fryxgames.se/games/terraforming-mars/)! Having played *a lot* of games, me and my friends collected bunch of data. Thus I have decided to create this website to analyise our scores and simplify game logging. 
 
-I am using Django and Postgresql alongside with rest framework for building the Web API. The app can be easily deployed using Docker.
-
 ### My experience
 
-#### PWA Website
+#### [PWA Website](https://github.com/RokasBagdonas/pwa)
 ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/nodejs.png?raw=true) ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/javascript.png?raw=true)
 
-A team project at the University of Sheffield for building a website with 
+A university team project for building a simple social network website that functions when offline! 
 
-#### The Internet of Things 
+#### [Smart Sockets](https://github.com/RokasBagdonas/iot-smart-sockets) 
 ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/arduino.png?raw=true) ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/c++.png?raw=true)
 
-University project for building an app that 
-
+An Internet of Things project for controling smart sockets remotely using ESP32 System on a Chip.
+<!--
 #### Dissertation project
 ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/javascript.png?raw=true)
 
 #### Software Hut
-![alt text](images/icons/ruby.png) 
+![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/ruby.png?raw=true) 
+-->
