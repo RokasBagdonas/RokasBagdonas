@@ -1,6 +1,6 @@
 ### About me 
 
-I am a Computer Science graduate passionate about Web and Software development :computer: :sparkles: . Currently searching for a job in London!
+I am a Computer Science graduate passionate about Web and Software development :computer: :sparkles: . Currently looking for a job in London!
 
 ### Current project: [Terraforming Mars API](https://github.com/RokasBagdonas/terra-mars-api) :rocket:
 
@@ -19,10 +19,8 @@ A university team project for building a simple social network website that func
 ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/arduino.png?raw=true) ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/c++.png?raw=true)
 
 An Internet of Things project for controling smart sockets remotely using ESP32 System on a Chip.
-<!--
-#### Dissertation project
+
+#### [Virtual eggs](https://github.com/RokasBagdonas/virtual-eggs)
 ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/javascript.png?raw=true)
 
-#### Software Hut
-![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/ruby.png?raw=true) 
--->
+I've developed an algorithm for replicating guillemot egg patterns. The app uses vanilla Javascript and Three.js framework for displaying a 3D egg model.
