@@ -13,12 +13,12 @@ I am building a statistics website for the best strategic board game [Terraformi
 #### [PWA Website](https://github.com/RokasBagdonas/pwa)
 ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/nodejs.png?raw=true) ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/javascript.png?raw=true)
 
-A university team project for building a simple social network website that functions when offline! 
+A university team project for building a simple social network website that functions when offline! I've learned to implement _Cache-Then-Network_ Service worker data caching stragety and to use *asynchronous* IndexDB API, create JavaScript Promises. The project was done in a team of 3, thus knowning *Git* came in handy. 
 
 #### [Smart Sockets](https://github.com/RokasBagdonas/iot-smart-sockets) 
 ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/arduino.png?raw=true) ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/c++.png?raw=true)
 
-An Internet of Things project for controling smart sockets remotely using ESP32 System on a Chip.
+An Internet of Things project for controling smart sockets remotely using ESP32 System on a Chip. I learned to write C++ code, integrate exernal radio transmittor and use third party Telegram API library for toggling the sockets from a smart phone!
 
 #### [Virtual eggs](https://github.com/RokasBagdonas/virtual-eggs)
 ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/javascript.png?raw=true)
