@@ -23,4 +23,4 @@ An Internet of Things project for controling smart sockets remotely using ESP32 
 #### [Virtual eggs](https://github.com/RokasBagdonas/virtual-eggs)
 ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/javascript.png?raw=true)
 
-An algorithm for replicating guillemot egg patterns. The app uses vanilla *Javascript* and *Three.js* framework for displaying a 3D egg model.
+An algorithm for replicating [guillemot egg patterns](https://www.gettyimages.co.uk/detail/photo/tub-of-guillemot-eggs-royalty-free-image/520207456?adppopup=true). The app uses vanilla *Javascript* and *Three.js* framework for displaying a 3D egg model.
