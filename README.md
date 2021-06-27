@@ -6,9 +6,9 @@ C# Solutions Analysit at Everis Consultancy, particularly interested in Web and 
 
 ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/python.png?raw=true) ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/django.png?raw=true) ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/postgresql.png?raw=true) ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/docker.png?raw=true) 
 
-A statistics website for the **best** strategic board game [Terraforming Mars](https://www.fryxgames.se/games/terraforming-mars/)! Having played *a lot* of games, me and my friends collected a bunch of data. Thus I have decided to create this website to analyse our scores and simplify game logging. 
+A statistics website for the **best** strategic board game [Terraforming Mars](https://www.fryxgames.se/games/terraforming-mars/)! Having played *a lot* of games, me and my friends collected a bunch of data. Thus I have decided to create a website where we can analyse results and simplify game logging (⛔ excel spreadsheets).
 
-### My experience
+### Other projects
 
 #### [PWA Website](https://github.com/RokasBagdonas/pwa)
 ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/nodejs.png?raw=true) ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/javascript.png?raw=true)
