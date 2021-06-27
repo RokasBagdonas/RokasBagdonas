@@ -1,6 +1,6 @@
 ### About me 
 
-I am a C# Solutions Analysit at Everis Consultancy with Computer Science BSc degree. Particularly interested in Web and Software development, looking to improve and learn new technologies.
+C# Solutions Analysit at Everis Consultancy with Computer Science BSc degree. Particularly interested in Web and Software development, looking to improve and learn new technologies.
 
 ### Current project: [Terraforming Mars API](https://github.com/RokasBagdonas/terra-mars-api) :rocket:
 
