@@ -2,7 +2,7 @@
 
 C# Solutions Analysit at Everis Consultancy, particularly interested in Web and Software development.
 
-### Current project: [Terraforming Mars API](https://github.com/RokasBagdonas/terra-mars-api) :rocket:
+### [Terraforming Mars API](https://github.com/RokasBagdonas/terra-mars-api) :rocket:
 
 ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/python.png?raw=true) ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/django.png?raw=true) ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/postgresql.png?raw=true) ![alt text](https://github.com/RokasBagdonas/RokasBagdonas/blob/master/images/icons/docker.png?raw=true) 
 
