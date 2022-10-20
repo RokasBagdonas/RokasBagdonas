@@ -1,6 +1,6 @@
 ### About me 
 
-C# Solutions Analysit at Everis Consultancy, particularly interested in Web and Software development.
+C# Developer that likes writing good gode
 
 ### [Terraforming Mars API](https://github.com/RokasBagdonas/terra-mars-api) :rocket:
 
